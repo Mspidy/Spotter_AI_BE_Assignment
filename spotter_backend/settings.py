@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-qt^g+ukd3+(m7(k(_+mk^3datdtfr)9+ovig##5em$)#a73*3=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['spotter-ai-be-assignment-0lmb.onrender.com']
+
 
 
 # Application definition
